@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    background-color: lightcyan;
+}
+
+#fullRegion{
+    padding:50px 250px 0px 250px;
+}
+h1{
+
+    text-align: center;
+}
